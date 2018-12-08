@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/LombaxTech/heroku-test/issues"
   },
-  "homepage": "https://github.com/LombaxTech/heroku-test#readme"
+  "homepage": "https://github.com/LombaxTech/heroku-test#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
